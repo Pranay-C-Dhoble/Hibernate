@@ -10,5 +10,5 @@
 <p>* Hibernate is an open-source, lightweight ORM tool that is used to develop Java applications to interact with the database.</p>
 
 <p align="center">
-<img alt="Pranay Dhoble" src="https://github.com/Pranay-C-Dhoble/Hibernate_Framework/blob/master/images/hibernet.png" width="7000">
+<img alt="Pranay Dhoble" src="https://github.com/Pranay-C-Dhoble/Hibernate/blob/master/images/hibernet.png" width="7000">
 </p>
