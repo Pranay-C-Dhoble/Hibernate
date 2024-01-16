@@ -48,4 +48,7 @@ which may involve several database calls</p>
 |----|-----------|----------------|------------|
 <p> Student Property --> id, name, Certificate</p>
 <p> Certificate Property --> course, duration</p>
+<h1>@OneToOne Mapping</h1>
+<p>* @OneToOne is used to define one to one relationship between two entities.</p>
+<p>* Unidirectional and Bidirectional</p>
 
