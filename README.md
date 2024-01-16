@@ -51,4 +51,5 @@ which may involve several database calls</p>
 <h1>@OneToOne Mapping</h1>
 <p>* @OneToOne is used to define one to one relationship between two entities.</p>
 <p>* Unidirectional and Bidirectional</p>
-
+<p>* Unidirectional --> In this case, only one entity knows about the other entity.</p>
+<p>* Bidirectional --> In this case, both entities know about each other.</p>
