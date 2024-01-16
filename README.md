@@ -30,3 +30,13 @@
 <p>@JoinColumn --> use to define the column details of the associated table.</p>
 <p>@JoinTable --> use to define the join table details.</p>
 <p>@OrderBy --> use to define the order of the associated data.</p>
+<h1>Select Data From DataBase</h1>
+<p>-----------------------get vs load-----------------------</p>
+<p>* get -> if the data is not present in the database then it will return null</p>
+<p>* Use if you are not sure that the data is present in the database or not</p>
+<p>* get() --> it involves database hit if object is not found in Session Cache and return fully initialized object
+which may involve several database calls</p>
+<p>---------------------------------------------------------</p>
+<p>* load -> if the data is not present in the database then it will throw ObjectNotFoundException</p>
+<p>* Use if you are sure that the data is present in the database</p>
+<p>* load() --> it never hit the database and return proxy object which is not fully initialized object and it will hit the database only when you access any property of the object.</p>
