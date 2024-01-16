@@ -13,7 +13,7 @@
         <property name="show_sql">true</property>
         <!--        <property name="hibernate.format_sql">false</property>-->
 
-        <mapping class = "demohibernate.entity.Student"/>
+        <mapping class = "onetomany.entity.Que"/>
+        <mapping class = "onetomany.entity.Ans"/>
     </session-factory>
 </hibernate-configuration>
-

@@ -1,4 +1,4 @@
-package demohibernate.entity;
+package embeddable.entity;
 
 import javax.persistence.Embeddable;
 

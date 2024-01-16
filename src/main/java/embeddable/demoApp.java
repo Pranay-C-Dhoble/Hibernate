@@ -1,7 +1,7 @@
-package demohibernate;
+package embeddable;
 
-import demohibernate.entity.Certificate;
-import demohibernate.entity.Student;
+import embeddable.entity.Certificate;
+import embeddable.entity.Student;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
@@ -11,7 +11,7 @@ public class demoApp {
     public static void main(String[] args) {
         System.out.println("Program Started .....");
         Configuration cfg = new Configuration();
-        cfg.configure("demohibernate.xml");
+        cfg.configure("embeddable.xml");
         SessionFactory factory = cfg.buildSessionFactory();
 
         Student student = new Student();
