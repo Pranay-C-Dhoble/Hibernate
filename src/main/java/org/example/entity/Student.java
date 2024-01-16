@@ -1,13 +1,12 @@
 package org.example.entity;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity //Used to mark the class as an entity
 //@Table(name = "mystudents")
 public class Student {
     @Id //Used to mark the primary key
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
     private String name;
     private String city;
