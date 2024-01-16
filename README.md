@@ -1,5 +1,7 @@
 <h1>Object-Relational Mapping (ORM)</h1>
-<p>* It is a technique that helps developers interact with a database using the programming language they are using in their code (like Java, Python, or C#).</p>
+<p>* Object-Relational Mapping (ORM) is a programming technique.</p>
+<p>* that allows developers to interact with a relational database using an object-oriented programming language (like Java, Python, or C#).</p>
+<p>*  ORM bridges the gap between the object-oriented model used in code and the relational model used in databases.</p>
 <p>* Instead of writing SQL queries directly, developers can work with objects in their code</p>
 <p>* And the ORM framework takes care of translating those objects into the database language (SQL) and vice versa.</p>
 <h3>Example:- Imagine you have an object in your code representing a "User.</h3>
@@ -8,7 +10,7 @@
 <h1>Hibernate Frameworke</h1>
 <p>* Hibernate is an ORM framework that allows developers to interact with a database using Java objects.</p>
 <p>* Hibernate is an open-source, lightweight ORM tool that is used to develop Java applications to interact with the database.</p>
-
+<p>* Hibernate offers features such as database independence, automatic table generation, caching, and transaction management, making it easier to develop and maintain database-driven applications.</p>
 <p align="center">
 <img alt="Pranay Dhoble" src="https://github.com/Pranay-C-Dhoble/Hibernate/blob/master/images/hibernet.png" width="7000">
 </p>
