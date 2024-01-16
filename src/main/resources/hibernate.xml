@@ -14,6 +14,7 @@
 <!--        <property name="hibernate.format_sql">false</property>-->
 
         <mapping class="org.example.entity.Student"/> <!-- this is the entity class -->
+        <mapping class="org.example.entity.Address"/>
     </session-factory>
 </hibernate-configuration>
 
