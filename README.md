@@ -40,3 +40,12 @@ which may involve several database calls</p>
 <p>* load -> if the data is not present in the database then it will throw ObjectNotFoundException</p>
 <p>* Use if you are sure that the data is present in the database</p>
 <p>* load() --> it never hit the database and return proxy object which is not fully initialized object and it will hit the database only when you access any property of the object.</p>
+<h1>@ Embeddable</h1>
+<p>* @Embeddable is used to mark the class as an embeddable class</p>
+<p>* Which means that this class will be embedded in another class</p>
+
+| id | name      |   course       | duration   | 
+|----|-----------|----------------|------------|
+<p> Student Property --> id, name, Certificate</p>
+<p> Certificate Property --> course, duration</p>
+
