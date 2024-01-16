@@ -53,3 +53,12 @@ which may involve several database calls</p>
 <p>* Unidirectional and Bidirectional</p>
 <p>* Unidirectional --> In this case, only one entity knows about the other entity.</p>
 <p>* Bidirectional --> In this case, both entities know about each other.</p>
+<h1>@OneToMany Mapping</h1>
+<p>* @OneToMany is used to define one to many relationship between two entities.</p>
+<p>* example: One question have many Answers.</p>
+<h1>@ManyToOne Mapping</h1>
+<p>* @ManyToOne is used to define many to one relationship between two entities.</p>
+<p>* example: Many students have one teacher.</p>
+<h1>@ManyToMany Mapping</h1>
+<p>* @ManyToMany is used to define many to many relationship between two entities.</p>
+<p>* example: One student have many courses and one course have many students.</p>
