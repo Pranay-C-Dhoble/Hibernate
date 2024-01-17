@@ -69,3 +69,4 @@ which may involve several database calls</p>
 <p align="center">
 <img alt="Pranay Dhoble" src="https://github.com/Pranay-C-Dhoble/Hibernate/blob/master/images/PersistenceLifecycle.png" width="7000">
 </p>
+
