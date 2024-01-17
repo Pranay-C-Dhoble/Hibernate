@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448f021b-6261-4a78-a602-00c752c25e41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/persistencelifecyclestate/LifeCycleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/persistencelifecyclestate/entity/CertificateL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/persistencelifecyclestate/entity/StudentL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/persistencelifecycle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/persistencelifecyclestate/LifeCycleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/persistencelifecyclestate/LifeCycleApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

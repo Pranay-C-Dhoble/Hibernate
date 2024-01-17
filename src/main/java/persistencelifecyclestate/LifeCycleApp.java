@@ -36,6 +36,7 @@ public class LifeCycleApp {
 //        //Student object is in removed state
 //        //here delete query will be fired
 
+
         transaction.commit();
 
 
