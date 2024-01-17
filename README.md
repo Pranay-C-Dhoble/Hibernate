@@ -65,3 +65,7 @@ which may involve several database calls</p>
 <h1>Fetch Type</h1>
 <p>* FetchType.EAGER --> It is a data loading mechanism where data is loaded all at once. EAGER is a design pattern in which data loading occurs on the spot.</p>
 <p>* FetchType.LAZY --> It is a data loading mechanism where data is loaded on demand. LAZY is a design pattern in which data loading does not occur on the spot.</p>
+<h1>Hibernate Object / Persistence Lifecycle States</h1>
+<p align="center">
+<img alt="Pranay Dhoble" src="https://github.com/Pranay-C-Dhoble/Hibernate/blob/master/images/PersistenceLifecycle.png" width="7000">
+</p>
