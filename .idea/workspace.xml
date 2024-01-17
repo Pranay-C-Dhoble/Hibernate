@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448f021b-6261-4a78-a602-00c752c25e41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fetchtechnique/FetchApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fetchtechnique/entity/AnswerF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fetchtechnique/entity/QuestionF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fetchtechnique.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Transient State.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/manytomany/entity/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/manytomany/entity/Emp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

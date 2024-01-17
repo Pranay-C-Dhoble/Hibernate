@@ -64,4 +64,4 @@ which may involve several database calls</p>
 <p>* example: One student have many courses and one course have many students.</p>
 <h1>Fetch Type</h1>
 <p>* FetchType.EAGER --> It is a data loading mechanism where data is loaded all at once. EAGER is a design pattern in which data loading occurs on the spot.</p>
-<p>* FetchType.LAZY --> It is a data loading mechanism where data is loaded on demand. LAZY is a design pattern in which data loading does not occur on the spot</p>
+<p>* FetchType.LAZY --> It is a data loading mechanism where data is loaded on demand. LAZY is a design pattern in which data loading does not occur on the spot.</p>
