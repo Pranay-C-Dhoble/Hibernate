@@ -62,3 +62,6 @@ which may involve several database calls</p>
 <h1>@ManyToMany Mapping</h1>
 <p>* @ManyToMany is used to define many to many relationship between two entities.</p>
 <p>* example: One student have many courses and one course have many students.</p>
+<h1>Fetch Type</h1>
+<p>* FetchType.EAGER --> It is a data loading mechanism where data is loaded all at once. EAGER is a design pattern in which data loading occurs on the spot.</p>
+<p>* FetchType.LAZY --> It is a data loading mechanism where data is loaded on demand. LAZY is a design pattern in which data loading does not occur on the spot</p>
