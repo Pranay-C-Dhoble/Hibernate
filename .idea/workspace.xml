@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448f021b-6261-4a78-a602-00c752c25e41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manytomany/ManyToManyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manytomany/entity/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manytomany/entity/Proj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/manytomany.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +45,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.App.executor": "Run",
     "Application.FetchDemo.executor": "Run",
+    "Application.ManyToManyApp.executor": "Run",
     "Application.MapApp.executor": "Run",
     "Application.OneToManyApp.executor": "Run",
     "Application.demoApp.executor": "Run",
@@ -60,13 +65,13 @@
       <recent name="D:\Hibernate\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OneToManyApp">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+  <component name="RunManager" selected="Application.ManyToManyApp">
+    <configuration name="FetchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.fetching.FetchDemo" />
       <module name="Hibernate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.fetching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FetchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.fetching.FetchDemo" />
+    <configuration name="ManyToManyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manytomany.ManyToManyApp" />
       <module name="Hibernate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.fetching.*" />
+          <option name="PATTERN" value="manytomany.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,13 +133,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManyToManyApp" />
         <item itemvalue="Application.OneToManyApp" />
         <item itemvalue="Application.MapApp" />
         <item itemvalue="Application.demoApp" />
         <item itemvalue="Application.FetchDemo" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
